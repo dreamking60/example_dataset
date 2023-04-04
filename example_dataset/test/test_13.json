@@ -1,0 +1,57 @@
+{
+  "type": "text2text",
+  "instances": [
+    {
+      "input": "The Transformer architecture [START_REF]",
+      "output": "NA"
+    },
+    {
+      "input": "The Schwarzschild radius is defined as: \\[",
+      "output": "NA"
+    },
+    {
+      "input": "A force of 0.6N is applied to an object, which accelerates at 3m/s. What is its mass? <work>",
+      "output": "NA"
+    },
+    {
+      "input": "[START_I_SMILES]",
+      "output": "NA"
+    },
+    {
+      "input": "[START_AMINO]GHMQSITAGQKVISKHKNGRFYQCEVVRLTTETFYEVNFDDGSFSDNLYPEDIVSQDCLQFGPPAEGEVVQVRWTDGQVYGAKFVASHPIQMYQVEFEDGSQLVVKRDDVYTLDEELP[END_AMINO] ## Keywords",
+      "output": "NA"
+    },
+    {
+      "input": "The reason why Transformers replaced RNNs was because",
+      "output": "NA"
+    },
+    {
+      "input": "Question: What is the notch signaling pathway?\n\nAnswer:",
+      "output": "NA"
+    },
+    {
+      "input": "# Multi-Head Attention\n\n",
+      "output": "NA"
+    },
+    {
+      "input": "Title: Self-Supervised Learning, A Survey\n\nAuthors: John Smith\n\n",
+      "output": "NA"
+    },
+    {
+      "input": "Lecture 1: The Ising Model\n\n",
+      "output": "NA"
+    },
+    {
+      "input": "Information overload is a major obstacle to scientific progress. The explosive growth in scientific literature and data has made it ever harder to discover useful insights in a large mass of information. Today scientific knowledge is accessed through search engines, but they are unable to organize scientific knowledge alone. In this paper we introduce Galactica: a large language model that can store, combine and reason about scientific knowledge. We train on a large scientific corpus of papers, reference material, knowledge bases and many other sources. We outperform existing models on a range of scientific tasks. On technical knowledge probes such as LaTeX equations, Galactica outperforms the latest GPT-3 by 68.2% versus 49.0%. Galactica also performs well on reasoning, outperforming Chinchilla on mathematical MMLU by 41.3% to 35.7%, and PaLM 540B on MATH with a score of 20.4% versus 8.8%. It also sets a new state-of-the-art on downstream tasks such as PubMedQA and MedMCQA dev of 77.6% and 52.9%. And despite not being trained on a general corpus, Galactica outperforms BLOOM and OPT-175B on BIG-bench. We believe these results demonstrate the potential for language models as a new interface for science. We open source the model for the benefit of the scientific community.\n\nTLDR:",
+      "output": "NA"
+    },
+    {
+      "input": "[START_I_SMILES]C(C(=O)O)N[END_I_SMILES]\n\n## Chemical and Physical Properties\n\nThe following are chemical properties for",
+      "output": "NA"
+    },
+    {
+      "input": "what is the capital of US?",
+      "output": "NA"
+    }
+  ]
+}
